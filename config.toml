@@ -1,0 +1,10 @@
+baseURL = "http://yanlistat.com"
+languageCode = "en-us"
+title = "Yan Li's Webpage"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+MetaDataFormat = "toml"
+buildDrafts = false
+canonifyURLs = true
+paginate = 5
