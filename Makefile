@@ -10,4 +10,4 @@ build:
 
 .PHONY: clean
 clean:
-	rm -rf public/ *~
+	rm -rf public/*
