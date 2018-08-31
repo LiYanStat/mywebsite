@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/LiYanStat/LiYanStat.github.io.git
 	branch = master
+
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
