@@ -22,21 +22,23 @@ weight = 5
  
 +++
 
-# About me
+# Biography
 
-I'm Yan Li! I'm pursuing my Ph.D. degree in Statistics at <a
-href="http://stat.uconn.edu/"> Departmemt of Statistics, University of
-Connecticut</a> from starting from 2016. I recieved my B.S. degree in
-Statistics from <a href="http://stat.ruc.edu.cn/"> Renmin University
-of China</a> in 2016.
+<p class="text-justify">I'm pursuing my Ph.D. degree in Statistics at <a
+href="http://stat.uconn.edu/" target="_blank" ref="noopener">
+Departmemt of Statistics, University of Connecticut</a> after
+graduating from <a href="http://stat.ruc.edu.cn" target="_blank"
+ref="noopener">School of Statistics</a>, Renmin University of China in
+2016. My interests lie in developing and applying statistical models
+to different fields of research. I am also interested in how
+statistics can help with interpreting data and make contribution to
+researches in different area. I'm currently working on
+error-in-variables model and detection & attribution of climate
+change. </p>
 
-I enjoy using <a href="https://www.r-project.org"> R </a> and <a
-href="https://www.python.org"> Python </a> to do statistical
-analysis. And I'm currently working on developing statistical models
-and R packages for climate change and errors-in-variables models.
-Information for my research is avaliable at <a
-href="/projects">Projects</a>.
+<p class="text-justify">I started this website to post some thinkings
+and personal notes on statistical project and programming. I would be
+glad if my humble opinions turn out to be helpful in your researches
+or studies. </p >
 
-I'm learning Javascript and PHP now. I will complete this webpage step
-by step and share some experience of learning these things at the <a
-href="#posts">Notes</a> section.
+
