@@ -25,10 +25,10 @@ weight = 5
 # Biography
 
 <p class="text-justify">I'm pursuing my Ph.D. degree in Statistics at <a
-href="http://stat.uconn.edu/" target="_blank" ref="noopener">
+href="http://stat.uconn.edu/" target="_blank" rel="noopener">
 Departmemt of Statistics, University of Connecticut</a> after
 graduating from <a href="http://stat.ruc.edu.cn" target="_blank"
-ref="noopener">School of Statistics</a>, Renmin University of China in
+rel="noopener">School of Statistics</a>, Renmin University of China in
 2016. My interests lie in developing and applying statistical models
 to different fields of research. I am also interested in how
 statistics can help with interpreting data and make contribution to
