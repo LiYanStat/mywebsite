@@ -1,6 +1,6 @@
 ---
 title: Several Things for Writing Statistical Paper
-date: '2014-09-23'
+date: '2017-11-01'
 summary: 'When writing a scientific paper, maintaining good
 habits will make your paper easy to follow for both
 collaborators and yourself and hence make the writing
