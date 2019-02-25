@@ -16,7 +16,7 @@ weight = 5
   institution = "University of Connecticut"
 
 [[education.courses]]
-  course = "B.A. in Economics"
+  course = "B.S. in Statistics"
   institution = "School of Statistics, Renmin University of China"
   year = 2016
  
