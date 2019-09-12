@@ -1,4 +1,0 @@
----
-title: Projects
-date: '2018-02-04'
----
