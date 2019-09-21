@@ -66,6 +66,30 @@ subtitle = ""
  css_class = ""
 +++
 
+<!--
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+-->
+
+<ul style="font-size: 18px">
+<li class="mb-2">Refereed publications
+<br>
+Caplan, D. J., <b>Li, Y.</b>, Wang, W., Kang, S., Marchini, L., Cowen, H. J., and Yan, J. (2018). &nbsp;
+Dental Restoration Longevity among Geriatric and Special Needs Patients.&nbsp; <i>JDR Clinical & Translational Research</i>
+<br>
+<b>Li, Y.</b>, Li, Y., Qin, Y., Yan, J. (2019+) Copula Modeling for Data with Ties.&nbsp; <i>Statistics and Its Interface</i>
+</li>
+
+
+<li>Papers in Progress
+<br>
+<b>Li, Y.</b>, Yu, C., Zhao, Y., Yao, W., Aseltine, R., Chen, K. &nbsp; Pursuing Sources of Heterogeneity in Mixture Regression.
+<br>
+<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Under-Coverage of Confidence Intervals in Optimal Fingerprinting --- Impact and Calibration
+<br>
+<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Weight Matrix Construction in Fingerprinting to Improve Detection of Global Temperature Signals in Historical Climate.
+
+
+</li>
+</ul>
