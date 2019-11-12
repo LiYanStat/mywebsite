@@ -84,11 +84,11 @@ Dental Restoration Longevity among Geriatric and Special Needs Patients.&nbsp; <
 
 <li>Papers in Progress
 <br>
-<b>Li, Y.</b>, Yu, C., Zhao, Y., Yao, W., Aseltine, R., Chen, K. &nbsp; Pursuing Sources of Heterogeneity in Mixture Regression.
+<b>Li, Y.</b>, Yu, C., Zhao, Y., Yao, W., Aseltine, R., Chen, K. &nbsp; Pursuing Sources of Heterogeneity in Mixture Regression (submitted)
 <br>
 <b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Under-Coverage of Confidence Intervals in Optimal Fingerprinting --- Impact and Calibration
 <br>
-<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Weight Matrix Construction in Fingerprinting to Improve Detection of Global Temperature Signals in Historical Climate.
+<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Weight Matrix Construction in Fingerprinting to Improve Detection of Global Temperature Signals in Historical Climate
 
 
 </li>
