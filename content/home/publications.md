@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
@@ -86,7 +86,7 @@ Dental Restoration Longevity among Geriatric and Special Needs Patients.&nbsp; <
 <br>
 <b>Li, Y.</b>, Yu, C., Zhao, Y., Yao, W., Aseltine, R., Chen, K. &nbsp; Pursuing Sources of Heterogeneity in Mixture Regression (submitted)
 <br>
-<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Under-Coverage of Confidence Intervals in Optimal Fingerprinting --- Impact and Calibration
+<b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Under-Coverage of Confidence Intervals in Optimal Fingerprinting --- Impact and Calibration (submitted)
 <br>
 <b>Li, Y.</b>, Chen, K., Yan, J., Zhang, X. &nbsp; Weight Matrix Construction in Fingerprinting to Improve Detection of Global Temperature Signals in Historical Climate
 

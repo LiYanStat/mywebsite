@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Presentations"
 subtitle = ""
 
 [content]
@@ -67,3 +67,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<ul style="font-size: 18px">
+<li class="mb-2">
+"Targeted integrative learning with applications in suicide risk prediction". The 11th ICSA International Conference, Hangzhou, Zhejiang, China
+<br/>
+</li>
+</ul>

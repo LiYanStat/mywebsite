@@ -73,5 +73,5 @@ rel="noopener">School of Statistics</a>, Renmin University of China in
 Analysis, Measurement Error Models, Mixture Models, Dimension
 Reduction and Variable Selection.
 
-This website includes information on my current research projects,
+This website (under construction) includes information on my current research projects,
 publications and some thinkings/notes on research and programming.
