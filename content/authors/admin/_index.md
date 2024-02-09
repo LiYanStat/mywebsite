@@ -1,77 +1,119 @@
 ---
 # Display name
-name: Yan Li
+title: Yan Li
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Name pronunciation (optional)
+name_pronunciation: 
+
+# Full name (for SEO)
+first_name: Yan
+last_name: Li
+
+# Status emoji
+status:
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: PhD Candidate
+# Role/position/tagline
+role: Assistant Professor
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Connecticut
-  url: ""
+  - name: Auburn University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include environment statistics, compositional data and high-dimensional statistics.
 
-interests:
-- Climate Change Detection and Attribution
-- Measurement Error Models
-- High-Dimensional Statistics
+# Interests to show in About widget
+# interests:
+#   - Environment Statistics
+#   - Compositional Data Analysis
+#   - High-Dimensional Statistics
+#   - Measurement Error Models
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics
-    institution: University of Connecticut
-    year: 2021 (expected)
-  - course: BS in Statistics
-    institution: Renmin University of China
-    year: 2016
+    - course: PhD in Statistics
+      institution: University of Connecticut
+      year: 2021
+    - course: BS in Statistics
+      institution: Renmin University of China
+      year: 2016
+
+teaching:
+  - Environment Statistics
+  - Compositional Data Analysis
+  - High-Dimensional Statistics
+  - Measurement Error Models
+      
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: R
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: PHP
+#         description: ''
+#         percent: 100
+#         icon: php
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:yan.4.li@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LiYanStat
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/YanLiStat
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/LiYanStat
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab.com/YanLiStat
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: 
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-I'm pursuing my PhD degree in Statistics at <a
-href="http://stat.uconn.edu/" target="_blank" rel="noopener">
-Departmemt of Statistics, University of Connecticut</a> after
-graduating from <a href="http://stat.ruc.edu.cn" target="_blank"
-rel="noopener">School of Statistics</a>, Renmin University of China in
-2016. My interests lie in Climate Change Detection and Attribution
-Analysis, Measurement Error Models, Mixture Models, Dimension
-Reduction and Variable Selection.
+Yan Li is an assistant professor in the <a
+href="https://www.auburn.edu/cosam/departments/math/" target="_blank"
+rel="noreferrer">Department of Mathematics and Statistics</a> at <a
+href="https://www.auburn.edu" target="_blank" rel="noreferrer">Auburn
+University</a>. His research interests are in areas of environment
+statistics, compositional data analysis, high-dimensional statistics,
+and applications in population health/microbiology.
 
-This website (under construction) includes information on my current research projects,
-publications and some thinkings/notes on research and programming.
+The website is under construction. More information on my projects,
+publications and notes on statistics and programming will be available
+soon.
+
+Email: yzl0317 [AT] auburn.edu
+
+{style="text-align: justify;"}
