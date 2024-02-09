@@ -1,4 +1,3 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:LiYanStat/LiYanStat.github.io.git
-	branch = master
+	url = https://github.com/LiYanStat/LiYanStat.github.io.git
