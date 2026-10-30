@@ -147,6 +147,21 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
+    id: featured
+    content:
+      title: Publications
+      text: |2-
+        See my [Google Scholar profile](https://scholar.google.com/citations?user=ehcilc0AAAAJ&hl=en) for publications and citations.
+        
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -174,6 +189,7 @@ sections:
       view: compact
       columns: '2'
 
+
 # - block: collection
   #   id: featured
   #   content:
@@ -186,21 +202,6 @@ sections:
   #     columns: '2'
   #     view: card
   
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      text: |2-
-        See my [Google Scholar profile](https://scholar.google.com/citations?user=ehcilc0AAAAJ&hl=en) for publications and citations.
-        
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
   # - block: collection
   #   id: talks
   #   content:
