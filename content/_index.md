@@ -83,8 +83,6 @@ sections:
 
         2021–2023
 
-        Worked with Gen Li on statistical methods for microbiome data.
-
         ### Graduate Assistant and Webmaster
         **Department of Statistics, University of Connecticut**
 
