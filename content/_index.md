@@ -50,49 +50,78 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
+  - block: markdown
+    id: research
+    content:
+      title: Research Directions
+      text: |-
+        ### High-dimensional statistical methodology
+        Developing statistical methods for learning and inference from large-scale, complex data.
+
+        ### Environmental and climate science
+        Understanding environmental variability and climate change through statistical modeling.
+
+        ### Microbiome research
+        Studying microbial communities through the analysis of high-dimensional compositional data.
+
+        ### Population health
+        Understanding heterogeneity and health outcomes in diverse populations.
+    design:
+      columns: '2'
+  - block: markdown
+    id: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Assistant Professor
-          company: Department of Mathematics and Statistics, Auburn University
-          company_url: ''
-          location: 
-          date_start: '2023-08-01'
-          date_end: ''
-          description: |2-
-            Teaching: 
+      text: |-
+        ### Assistant Professor
+        **Department of Mathematics and Statistics, Auburn University**
 
-            * Fall 2023: STAT3010 Statistics for Engineers and Scientist
-            * Spring 2024: STAT 7670 Applied Longitudinal Data Analysis
-            
-        - title: Postdoctoral Researcher
-          company: Department of Biostatistics, University of Michigan
-          company_url: ''
-          location: 
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Researched on statistical methods for analysis of microbiome data.
+        August 2023–present
 
-        - title: Graduate Assistant and Webmaster
-          company: Department of Statistics, University of Connecticut 
-          company_url: ''
-          location: 
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: |2-
-            Maintained and developed website for [The New England Statistical Society (NESS)](https://nestat.org)
-            <br />
-            Developed websites for department and NESS conferences including [New England Rare Disease Statistics (NERDS) Workshop](https://nerds.nestat.org),
-            [33rd New England Statistics Symposium](https://symposium.nestat.org), and [The 3rd Stat4Onc annual symposium](https://events.stat.uconn.edu/stat4onc/), etc.
+        ### Postdoctoral Fellow
+        **Department of Biostatistics, University of Michigan**
+
+        2021–2023
+
+        Worked with Gen Li on statistical methods for microbiome data.
+
+        ### Graduate Assistant and Webmaster
+        **Department of Statistics, University of Connecticut**
+
+        Maintained and developed the [New England Statistical Society (NESS)](https://nestat.org) website and conference websites, including the [NERDS Workshop](https://nerds.nestat.org), [33rd New England Statistics Symposium](https://symposium.nestat.org), and [3rd Stat4Onc Symposium](https://events.stat.uconn.edu/stat4onc/).
+    design:
+      columns: '2'
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        ### Auburn University
+
+        | Course | Semesters |
+        | :--- | :--- |
+        | STAT 7600 — Statistical Theory and Methods I | Fall 2026, Fall 2025 |
+        | STAT 7610 — Statistical Theory and Methods II | Spring 2026 |
+        | STAT 6620 — Fundamentals of Statistical Inference II | Spring 2026 |
+        | STAT 3010 — Statistics for Engineers and Scientists | Spring 2025, Fall 2023 |
+        | STAT 5600/6600 — Probability and Statistics for Data Science | Fall 2024 |
+        | STAT 7670 — Applied Longitudinal Data Analysis | Spring 2024 |
+    design:
+      columns: '2'
+  - block: markdown
+    id: software
+    content:
+      title: Software
+      text: |-
+        I develop open-source R packages for statistical methodology and scientific applications.
+
+        - **[dacc](/software/#dacc)** — Detection and attribution analysis of climate change.
+        - **[tls](/software/#tls)** — Total least squares for measurement error models.
+        - **[paaPack](/software/#paapack)** — Principal amalgamation analysis for microbiome data.
+        - **[touch](/software/#touch)** — Tools for healthcare utilization and cost data.
+        - **[fmerPack](/software/#fmerpack)** — Heterogeneity pursuit via finite mixture effects regression.
+
+        [Explore packages, releases, downloads, and documentation →](/software/)
     design:
       columns: '2'
   # - block: accomplishments
@@ -164,9 +193,7 @@ sections:
     content:
       title: Publications
       text: |2-
-        Refereed publications:
-
-        Papers in Progress / Submitted:   
+        See my [Google Scholar profile](https://scholar.google.com/citations?user=ehcilc0AAAAJ&hl=en) for publications and citations.
         
       filters:
         folders:
@@ -176,34 +203,6 @@ sections:
       columns: '2'
       view: citation
 
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      text: <center>More info coming soon</center>
-      filters:
-        folders:
-          - project
-      # # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      # <!-- default_button_index: 0 -->
-      # <!-- # Filter toolbar (optional). -->
-      # <!-- # Add or remove as many filters (`filter_button` instances) as you like. -->
-      # <!-- # To show all items, set `tag` to "*". -->
-      # <!-- # To filter by a specific tag, set `tag` to an existing tag name. -->
-      # <!-- # To remove the toolbar, delete the entire `filter_button` block. -->
-      # <!-- # buttons: -->
-      # <!--    - name: Deep Learning -->
-      # <!--      tag: '*' -->
-      # <!--    - name: Other -->
-      # <!--      tag: '*' -->
-
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-      
   # - block: collection
   #   id: talks
   #   content:

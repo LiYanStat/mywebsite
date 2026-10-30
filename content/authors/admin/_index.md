@@ -22,10 +22,10 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Auburn University
-    url: 
+    url: https://www.auburn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environment statistics, compositional data and high-dimensional statistics.
+bio: My research centers on developing high-dimensional statistical methods for large-scale, complex data, with applications in environmental and climate science, microbiome research, and population health.
 
 # Interests to show in About widget
 # interests:
@@ -76,6 +76,12 @@ teaching:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ehcilc0AAAAJ&hl=en
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:yzl0317@auburn.edu
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
@@ -94,26 +100,15 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Yan Li is an assistant professor in the <a
-href="https://www.auburn.edu/cosam/departments/math/" target="_blank"
-rel="noreferrer">Department of Mathematics and Statistics</a> at <a
-href="https://www.auburn.edu" target="_blank" rel="noreferrer">Auburn
-University</a>. His research interests are in areas of environment
-statistics, compositional data analysis, high-dimensional statistics,
-and applications in population health/microbiology.
+I am an assistant professor in the [Department of Mathematics and Statistics](https://www.auburn.edu/cosam/departments/math/) at [Auburn University](https://www.auburn.edu). My research centers on developing high-dimensional statistical methods for large-scale, complex data, with applications in environmental and climate science, microbiome research, and population health.
 
-The website is under construction. More information on my projects,
-publications and notes on statistics and programming will be available
-soon.
+Before joining Auburn in August 2023, I was a postdoctoral fellow in the Department of Biostatistics at the University of Michigan (2021–2023), working with Dr. Gen Li. I received my PhD in Statistics from the University of Connecticut in 2021, advised by Dr. Kun Chen and Dr. Jun Yan, and my BS in Statistics from Renmin University of China in 2016.
 
-Email: yzl0317 [AT] auburn.edu
+My work connects statistical methodology with scientific applications and open-source software. See my [research directions](#research), [R packages](/software/), and [Google Scholar profile](https://scholar.google.com/citations?user=ehcilc0AAAAJ&hl=en).
 
-{style="text-align: justify;"}
+Email: [yzl0317@auburn.edu](mailto:yzl0317@auburn.edu)
